@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "DZA day"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: sponsors.qmd
+        text: Sponsors
+      - href: program.qmd
+        text: Program
+      - href: location.qmd
+        text: How to get there
+      - href: abstract.qmd
+        text: Abstract submission
+      - href: registration.qmd
+        text: Registration
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
