@@ -1,8 +1,29 @@
 [
   {
+    "objectID": "location.html",
+    "href": "location.html",
+    "title": "Location",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "sponsors.html",
     "href": "sponsors.html",
     "title": "Sponsors",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "abstract",
     "section": "",
     "text": "About this site"
   },
@@ -19,26 +40,5 @@
     "title": "Dutch Zeolite Association day",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "abstract.html",
-    "href": "abstract.html",
-    "title": "abstract",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "location.html",
-    "href": "location.html",
-    "title": "Location",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "About this site"
   }
 ]
