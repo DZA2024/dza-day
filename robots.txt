@@ -1,1 +1,1 @@
-Sitemap: https://jsmendozap.github.io/dza-day/sitemap.xml
+Sitemap: https://DZA2024.github.io/dza-day/sitemap.xml
