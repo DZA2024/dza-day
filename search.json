@@ -1,37 +1,44 @@
 [
   {
-    "objectID": "location.html",
-    "href": "location.html",
-    "title": "Location",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "registration.html",
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "About this site"
+    "text": "Cargando…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WELCOME To the DZA symposium",
+    "section": "",
+    "text": "We invite you to join the one-day symposium, organized by the Dutch zeolite association (DZA). The symposium will take place on the 4th of November 2024 in the Irish college in the beautiful city of Leuven, which is not only the birthplace of the world-renowned Stella Artois Brewery, but also the home of the oldest university (599 years) in the low countries.\nThe conference is organized by the Center for sustainable catalysis and engineering (CSCE), formerly part of the Centrum for Surface Science and Catalysis (COK), a lab with a rich history in zeolite science for over 4 decades.\nWe invite you to participate, either by presenting a poster or a presentation, with any subject covering zeolites (or related materials), their synthesis and uses, e.g. as a catalyst or adsorbent. For this, submissions are open until the 30th of september. Priority will be given to PhD student and postdoctoral talks. We look forward to hearing from you.\n\n Kind regards,\nThe organizing team.  Elena Brozzi, Sven Robijns and Prof. Michiel Dusselier – secretary of the DZA"
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "Abstract submission",
+    "section": "",
+    "text": "Important\n\n\n\nAbstracts can be submitted by sending them as a .PDF or .docx to the following email address:\nDZA@kuleuven.be\n\n\n\nThe abstracts are limited to one page (A4), with a maximum of 1 figure and 400 words (references excluded). It should include a title, author list with institutions, a presenting author, and the preference for talk or poster format.\nThe final submission deadline is the 30th of september.\nBy October 10, you will be notified of the outcome of your abstract."
   },
   {
     "objectID": "sponsors.html",
     "href": "sponsors.html",
     "title": "Sponsors",
     "section": "",
-    "text": "About this site"
+    "text": "Shell Catalysts and Technologies\n\n\n\nZeolyst\n\n\n\n\n\nDelft Solid Solutions\n\n\n\n\nKETJEN\n\n\n\n\n\nExxonMobil"
   },
   {
-    "objectID": "abstract.html",
-    "href": "abstract.html",
-    "title": "abstract",
+    "objectID": "location.html",
+    "href": "location.html",
+    "title": "Location",
     "section": "",
-    "text": "About this site"
+    "text": "The conference will take place in the Irish college (Iers College) in the heart of Leuven city.\n\n\nAddress\nJanseniusstraat 1  3000 Leuven  Belgium \n\n\n\n\n\n\n\n\nHow to get there\n\nBy plane:\n\nThere is a direct train connection from Brussels Airport (Zaventem) to the city of Leuven which departs twice an hour. The train station is located inside the building of Brussels Airport.\n\n\n\nBy Car:\n\nIf you come by car, we advise you to park your car on one of the public parking’s around Leuven. There are several within walking distance of the conference center:\n\n\nParking Bodart (13 min walk)\n\nParking Sint-Jacob (10 min walk)\nQ-Park Leuven Heilig Hart (9 min walk)\n\nIn most of Leuven you can also park by the side of the road if you pay for a parking ticket.\n\n\nBy public transport:\n\nThe Leuven train station is located at walking distance of the conference center (22 min walk). There is also the option of taking the bus (Line 2: Heverlee Campus Arenberg) and getting of at the stop: Leuven Sint-Michielskerk, which is the third stop from the station. From here, it is a 5 min walk to the conference center."
   },
   {
     "objectID": "program.html",
     "href": "program.html",
     "title": "Program",
     "section": "",
-    "text": "About this site"
+    "text": "Note\n\n\n\nPreliminary: a more detailed program will be announced later.\n\n\n\n\n\n\nTime\nEvent\n\n\n\n\n8:00-9:00 \nRegistration and coffee \n\n\n9:00-9:10 \nOpening the DZA day (Michiel Dusselier) \n\n\n9:10-10:00 \nPlenary lecture (Prof. Xiaodong Zou) \n\n\n10:00-11:00 \nLectures (3x20 minutes) \n\n\n11:00-11:30 \nCoffee break\n\n\n11:30-12:50 \nLectures (4x20 minutes) \n\n\n13:00-14:00 \nLunch \n\n\n14:00-15:20 \nLectures (4x20 minutes) \n\n\n15:30-17:00 \nPoster session \n\n\n17:00-17:15 \nClosing remarks"
   }
 ]

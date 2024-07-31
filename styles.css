@@ -1,1 +1,14 @@
 /* css styles */
+
+.justify {
+    text-align: justify !important
+}
+
+thead {
+    background-color: mintcream;
+}
+
+.leaflet {
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
