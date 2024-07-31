@@ -2,4 +2,51 @@
 title: "Location"
 ---
 
-About this site
+::: {.justify}
+The conference will take place in the Irish college (Iers College) in the heart of Leuven city.  
+::: 
+
+### Address  
+
+Janseniusstraat 1 <br>
+3000 Leuven <br>
+Belgium <br>
+
+``` {r}
+#| echo: false
+library(leaflet)
+
+label <- '<div><b>Iers College</b><br>Janseniusstraat 1<br>3000 Leuven<br>Belgium</div>'
+
+leaflet() |>
+    addTiles() |>
+    addProviderTiles(providers$CartoDB.Voyager) |>
+    setView(lng = 4.6995601252626535, lat = 50.87966919100757, zoom = 14) |>
+    addMarkers(lng = 4.6967995, lat = 50.8756089, popup = label)
+```
+
+### How to get there 
+
+#### By plane:  
+
+::: {.justify}
+There is a direct train connection from Brussels Airport (Zaventem) to the city of Leuven which departs twice an hour. The train station is located inside the building of Brussels Airport.  
+::: 
+
+#### By Car: 
+
+::: {.justify}
+If you come by car, we advise you to park your car on one of the public parking’s around Leuven. There are several within walking distance of the conference center: 
+::: 
+
+- Parking Bodart (13 min walk)  
+- Parking Sint-Jacob (10 min walk) 
+- Q-Park Leuven Heilig Hart (9 min walk) 
+
+In most of Leuven you can also park by the side of the road if you pay for a parking ticket. 
+
+#### By public transport: 
+
+::: {.justify}
+The Leuven train station is located at walking distance of the conference center (22 min walk). There is also the option of taking the bus (Line 2: Heverlee Campus Arenberg) and getting of at the stop: Leuven Sint-Michielskerk, which is the third stop from the station. From here, it is a 5 min walk to the conference center. 
+:::

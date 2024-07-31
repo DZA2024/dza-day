@@ -1,3 +1,19 @@
 ---
-title: "Dutch Zeolite Association day"
+title: "WELCOME To the DZA symposium"
 ---
+
+::: {.justify}
+We invite you to join the one-day symposium, organized by the Dutch zeolite association (DZA). The symposium will take place on the 4th of November 2024 in the Irish college in the beautiful city of Leuven, which is not only the birthplace of the world-renowned Stella Artois Brewery, but also the home of the oldest university (599 years) in the low countries.  
+
+The conference is organized by the Center for sustainable catalysis and engineering (CSCE), formerly part of the Centrum for Surface Science and Catalysis (COK), a lab with a rich history in zeolite science for over 4 decades.  
+
+We invite you to participate, either by presenting a poster or a presentation, with any subject covering zeolites (or related materials), their synthesis and uses, e.g. as a catalyst or adsorbent. For this, submissions are open until the 30th of september. Priority will be given to PhD student and postdoctoral talks. We look forward to hearing from you. 
+:::
+
+<br>
+Kind regards,  
+The organizing team. <br>
+Elena Brozzi, Sven Robijns and Prof. Michiel Dusselier – secretary of the DZA 
+
+<br>
+![](media/leuven.jpg)

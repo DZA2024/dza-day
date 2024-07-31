@@ -1,5 +1,34 @@
 ---
 title: "Sponsors"
+toc: false
 ---
 
-About this site
+### Shell Catalysts and Technologies
+
+[![](/media/shell.png)](https://www.shell.com/business-customers/catalysts-technologies.html) 
+
+### Zeolyst
+
+<br>
+
+[![](/media/zeolyst.jpeg)](https://www.zeolyst.com/)
+
+<br>
+
+### Delft Solid  Solutions
+[![](/media/delft.png)](https://www.solids-solutions.com/)
+
+<br>
+
+### KETJEN
+
+<br>
+
+[![](/media/ketjen.png)](http://www.ketjen.com/)
+
+<br>
+
+### ExxonMobil
+[![](/media/exxon.png)](https://www.exxonmobil.be)
+
+<br>

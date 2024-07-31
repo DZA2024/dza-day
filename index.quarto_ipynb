@@ -1,0 +1,44 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"WELCOME To the DZA symposium\"\n",
+        "---\n",
+        "\n",
+        "```{css, echo = FALSE}\n",
+        ".justify {\n",
+        "  text-align: justify !important\n",
+        "}\n",
+        "```\n",
+        "\n",
+        "\n",
+        "::: {.justify}\n",
+        "We invite you to join the one-day symposium, organized by the Dutch zeolite association (DZA). The symposium will take place on the 4th of November 2024 in the Irish college in the beautiful city of Leuven, which is not only the birthplace of the world-renowned Stella Artois Brewery, but also the home of the oldest university (599 years) in the low countries.  \n",
+        "\n",
+        "The conference is organized by the Center for sustainable catalysis and engineering (CSCE), formerly part of the Centrum for Surface Science and Catalysis (COK), a lab with a rich history in zeolite science for over 4 decades.  \n",
+        "\n",
+        "We invite you to participate, either by presenting a poster or a presentation, with any subject covering zeolites (or related materials), their synthesis and uses, e.g. as a catalyst or adsorbent. For this, submissions are open until the 30th of september. Priority will be given to PhD student and postdoctoral talks. We look forward to hearing from you. \n",
+        ":::\n",
+        "\n",
+        "\n",
+        "Kind regards,  \n",
+        "The organizing team. \n",
+        "\n",
+        "Elena Brozzi, Sven Robijns and Prof. Michiel Dusselier – secretary of the DZA "
+      ],
+      "id": "6a5a1055"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

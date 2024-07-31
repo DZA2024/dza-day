@@ -2,4 +2,8 @@
 title: "Registration"
 ---
 
-About this site
+<br>
+
+```{=html}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGLLi6P2k3QBWwekGD8-eG_S7hFVVAgrw96VFrv0RUtsKqIA/viewform?embedded=true" width="640" height="824" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+```

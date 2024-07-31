@@ -2,4 +2,22 @@
 title: "Program"
 ---
 
-About this site
+::: {.callout-note}
+**Preliminary**: a more detailed program will be announced later. 
+:::
+
+<center>
+|Time|Event|
+|:---:|:---|
+|8:00-9:00 |Registration and coffee |
+|9:00-9:10 |Opening the DZA day (Michiel Dusselier) |
+|9:10-10:00 |Plenary lecture (Prof. Xiaodong Zou) |
+|10:00-11:00 |Lectures (3x20 minutes) |
+|11:00-11:30 |**Coffee break** |
+|11:30-12:50 |Lectures (4x20 minutes) |
+|13:00-14:00 |**Lunch** |
+|14:00-15:20 |Lectures (4x20 minutes) |
+|15:30-17:00 |Poster session |
+|17:00-17:15 |Closing remarks |
+: {.hover}
+</center>
