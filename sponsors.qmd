@@ -16,6 +16,7 @@ include-in-header:
         .carousel img {
           width: 100%;
           max-height: 400px;
+          display: block; 
         }
         .carousel-caption {
           position: absolute;
@@ -27,29 +28,40 @@ include-in-header:
           padding: 10px;
           border-radius: 5px;
         }
+        a {
+          color: white;
+          text-decoration: none;
+          max-height: 400px;
+        }
       </style>
 ---
 
-### Gold tier
+### Gold tier sponsors
 
 ```{=html}
 <div class="carousel">
   <div class="carousel-container">
     <img src="./media/exxon.svg" alt="Imagen 1">
-    <div class="carousel-caption">
-        ExxonMobil
+    <div id="para" class="carousel-caption">
+      <a href="https://www.exxonmobil.be" target="_blank">
+            ExxonMobil
+        </a>
     </div>
   </div>
   <div class="carousel-container">
     <img src="./media/shell.png" alt="Imagen 2">
     <div class="carousel-caption">
+      <a href="https://www.shell.com/business-customers/catalysts-technologies.html" target="_blank">
         Shell Catalysts and Technologies
+      </a>
     </div>
   </div>
   <div class="carousel-container">
     <img src="./media/zeolyst.png" alt="Imagen 3">
     <div class="carousel-caption">
-        Zeolyst
+      <a href="https://www.zeolyst.com/" target="_blank">
+          Zeolyst
+      </a>
     </div>
   </div>
 </div>
@@ -59,7 +71,7 @@ include-in-header:
   $(document).ready(function(){
     $('.carousel').slick({
       autoplay: true,
-      autoplaySpeed: 1500,
+      autoplaySpeed: 1200,
       dots: true,
       arrows: true,
       prevArrow: '<button type="button" class="slick-prev">Anterior</button>',
@@ -71,20 +83,24 @@ include-in-header:
 <br>
 ---
 
-### Silver tier
+### Silver tier sponsors
 
 ```{=html}
 <div class="carousel">
   <div class="carousel-container">
     <img src="./media/delft.png" alt="Imagen 4">
     <div class="carousel-caption">
+      <a href="https://www.solids-solutions.com/" target="_blank">
         Delft Solid  Solutions
+      </a>
     </div>
   </div>
   <div class="carousel-container">
     <img src="./media/ketjen.png" alt="Imagen 5">
     <div class="carousel-caption">
-        Ketjen
+      <a href="http://www.ketjen.com/" target="_blank">
+          Ketjen
+      </a>
     </div>
   </div>
 </div>
@@ -94,7 +110,7 @@ include-in-header:
   $(document).ready(function(){
     $('.carousel').slick({
       autoplay: true,
-      autoplaySpeed: 1500,
+      autoplaySpeed: 1200,
       dots: true,
       arrows: true,
       prevArrow: '<button type="button" class="slick-prev">Anterior</button>',

@@ -3,7 +3,7 @@ title: "Abstract submission"
 ---
 
 ::: {.callout-important}
-Abstracts can be submitted by sending them as a .PDF or .docx to the following 	email address: 
+Abstracts can be submitted by sending them as a .PDF to the following 	email address: 
 
 DZA@kuleuven.be  
 :::

@@ -3,6 +3,12 @@ project:
 
 website:
   title: "DZA day"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "Join us to DZA days Leuven on **4<sup>th</sup> of November 2024**"
+    type: light
+    position: below-navbar
   navbar:
     left:
       - href: index.qmd
