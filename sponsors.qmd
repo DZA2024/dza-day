@@ -1,34 +1,105 @@
 ---
 title: "Sponsors"
 toc: false
+format: html
+include-in-header:
+  - text: |
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+      <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+       <style>
+        .carousel-container {
+          position: relative;
+          text-align: center;
+        }
+        .carousel img {
+          width: 100%;
+          max-height: 400px;
+        }
+        .carousel-caption {
+          position: absolute;
+          bottom: 10px;
+          left: 50%;
+          transform: translateX(-50%);
+          background-color: rgba(108, 122, 135, 0.7);
+          color: white; 
+          padding: 10px;
+          border-radius: 5px;
+        }
+      </style>
 ---
 
-### Shell Catalysts and Technologies
+### Gold tier
 
-[![](/media/shell.png)](https://www.shell.com/business-customers/catalysts-technologies.html) 
+```{=html}
+<div class="carousel">
+  <div class="carousel-container">
+    <img src="./media/exxon.svg" alt="Imagen 1">
+    <div class="carousel-caption">
+        ExxonMobil
+    </div>
+  </div>
+  <div class="carousel-container">
+    <img src="./media/shell.png" alt="Imagen 2">
+    <div class="carousel-caption">
+        Shell Catalysts and Technologies
+    </div>
+  </div>
+  <div class="carousel-container">
+    <img src="./media/zeolyst.png" alt="Imagen 3">
+    <div class="carousel-caption">
+        Zeolyst
+    </div>
+  </div>
+</div>
 
-### Zeolyst
-
+<!-- Script para inicializar Slick Carousel -->
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.carousel').slick({
+      autoplay: true,
+      autoplaySpeed: 1500,
+      dots: true,
+      arrows: true,
+      prevArrow: '<button type="button" class="slick-prev">Anterior</button>',
+      nextArrow: '<button type="button" class="slick-next">Siguiente</button>'
+    });
+  });
+</script>
+```
 <br>
+---
 
-[![](/media/zeolyst.jpeg)](https://www.zeolyst.com/)
+### Silver tier
 
-<br>
+```{=html}
+<div class="carousel">
+  <div class="carousel-container">
+    <img src="./media/delft.png" alt="Imagen 4">
+    <div class="carousel-caption">
+        Delft Solid  Solutions
+    </div>
+  </div>
+  <div class="carousel-container">
+    <img src="./media/ketjen.png" alt="Imagen 5">
+    <div class="carousel-caption">
+        Ketjen
+    </div>
+  </div>
+</div>
 
-### Delft Solid  Solutions
-[![](/media/delft.png)](https://www.solids-solutions.com/)
-
-<br>
-
-### KETJEN
-
-<br>
-
-[![](/media/ketjen.png)](http://www.ketjen.com/)
-
-<br>
-
-### ExxonMobil
-[![](/media/exxon.png)](https://www.exxonmobil.be)
-
-<br>
+<!-- Script para inicializar Slick Carousel -->
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.carousel').slick({
+      autoplay: true,
+      autoplaySpeed: 1500,
+      dots: true,
+      arrows: true,
+      prevArrow: '<button type="button" class="slick-prev">Anterior</button>',
+      nextArrow: '<button type="button" class="slick-next">Siguiente</button>'
+    });
+  });
+</script>
+```
