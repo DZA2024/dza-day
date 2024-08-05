@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.55">
+<meta name="generator" content="quarto-1.5.56">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -66,6 +66,36 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+ <style>
+  .carousel-container {
+    position: relative;
+    text-align: center;
+  }
+  .carousel img {
+    width: 100%;
+    max-height: 400px;
+    display: block;
+  }
+  .carousel-caption {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(108, 122, 135, 0.7);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    max-height: 400px;
+  }
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -118,6 +148,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <div id="quarto-announcement" data-announcement-id="555dcd3c93d71fc7cd0be162bce1aa35" class="alert alert-light hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p>Join us to DZA days Leuven on <strong>4<sup>th</sup> of November 2024</strong></p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
@@ -146,31 +179,85 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="shell-catalysts-and-technologies" class="level3">
-<h3 class="anchored" data-anchor-id="shell-catalysts-and-technologies">Shell Catalysts and Technologies</h3>
-<p><a href="https://www.shell.com/business-customers/catalysts-technologies.html"><img src="./media/shell.png" class="img-fluid"></a></p>
+<section id="gold-tier-sponsors" class="level3">
+<h3 class="anchored" data-anchor-id="gold-tier-sponsors">Gold tier sponsors</h3>
+<div class="carousel">
+  <div class="carousel-container">
+    <img src="./media/exxon.svg" alt="Imagen 1">
+    <div id="para" class="carousel-caption">
+      <a href="https://www.exxonmobil.be" target="_blank">
+            ExxonMobil
+        </a>
+    </div>
+  </div>
+  <div class="carousel-container">
+    <img src="./media/shell.png" alt="Imagen 2">
+    <div class="carousel-caption">
+      <a href="https://www.shell.com/business-customers/catalysts-technologies.html" target="_blank">
+        Shell Catalysts and Technologies
+      </a>
+    </div>
+  </div>
+  <div class="carousel-container">
+    <img src="./media/zeolyst.png" alt="Imagen 3">
+    <div class="carousel-caption">
+      <a href="https://www.zeolyst.com/" target="_blank">
+          Zeolyst
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Script para inicializar Slick Carousel -->
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.carousel').slick({
+      autoplay: true,
+      autoplaySpeed: 1200,
+      dots: true,
+      arrows: true,
+      prevArrow: '<button type="button" class="slick-prev">Anterior</button>',
+      nextArrow: '<button type="button" class="slick-next">Siguiente</button>'
+    });
+  });
+</script>
+<p><br></p>
+<hr>
 </section>
-<section id="zeolyst" class="level3">
-<h3 class="anchored" data-anchor-id="zeolyst">Zeolyst</h3>
-<p><br></p>
-<p><a href="https://www.zeolyst.com/"><img src="./media/zeolyst.jpeg" class="img-fluid"></a></p>
-<p><br></p>
-</section>
-<section id="delft-solid-solutions" class="level3">
-<h3 class="anchored" data-anchor-id="delft-solid-solutions">Delft Solid Solutions</h3>
-<p><a href="https://www.solids-solutions.com/"><img src="./media/delft.png" class="img-fluid"></a></p>
-<p><br></p>
-</section>
-<section id="ketjen" class="level3">
-<h3 class="anchored" data-anchor-id="ketjen">KETJEN</h3>
-<p><br></p>
-<p><a href="http://www.ketjen.com/"><img src="./media/ketjen.png" class="img-fluid"></a></p>
-<p><br></p>
-</section>
-<section id="exxonmobil" class="level3">
-<h3 class="anchored" data-anchor-id="exxonmobil">ExxonMobil</h3>
-<p><a href="https://www.exxonmobil.be"><img src="./media/exxon.png" class="img-fluid"></a></p>
-<p><br></p>
+<section id="silver-tier-sponsors" class="level3">
+<h3 class="anchored" data-anchor-id="silver-tier-sponsors">Silver tier sponsors</h3>
+<div class="carousel">
+  <div class="carousel-container">
+    <img src="./media/delft.png" alt="Imagen 4">
+    <div class="carousel-caption">
+      <a href="https://www.solids-solutions.com/" target="_blank">
+        Delft Solid  Solutions
+      </a>
+    </div>
+  </div>
+  <div class="carousel-container">
+    <img src="./media/ketjen.png" alt="Imagen 5">
+    <div class="carousel-caption">
+      <a href="http://www.ketjen.com/" target="_blank">
+          Ketjen
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Script para inicializar Slick Carousel -->
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.carousel').slick({
+      autoplay: true,
+      autoplaySpeed: 1200,
+      dots: true,
+      arrows: true,
+      prevArrow: '<button type="button" class="slick-prev">Anterior</button>',
+      nextArrow: '<button type="button" class="slick-next">Siguiente</button>'
+    });
+  });
+</script>
 
 
 </section>
