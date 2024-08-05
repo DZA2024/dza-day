@@ -95,6 +95,21 @@ ul.task-list li input[type="checkbox"] {
     text-decoration: none;
     max-height: 400px;
   }
+  .golden {
+    font-weight: bold;
+    background: linear-gradient(90deg, #f5c242, #e0a106, #f5c242);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  .silver {
+    font-weight: bold;
+    font-size: 2em;
+    background: linear-gradient(90deg, #7a7a7a, #b0b0b0, #8a8a8a, #7a7a7a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  }
 </style>
 
 
@@ -179,8 +194,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="gold-tier-sponsors" class="level3">
-<h3 class="anchored" data-anchor-id="gold-tier-sponsors">Gold tier sponsors</h3>
+<h1 class="golden">
+Gold tier sponsors
+</h1>
 <div class="carousel">
   <div class="carousel-container">
     <img src="./media/exxon.svg" alt="Imagen 1">
@@ -223,9 +239,9 @@ ul.task-list li input[type="checkbox"] {
 </script>
 <p><br></p>
 <hr>
-</section>
-<section id="silver-tier-sponsors" class="level3">
-<h3 class="anchored" data-anchor-id="silver-tier-sponsors">Silver tier sponsors</h3>
+<h1 class="silver">
+Silver tier sponsors
+</h1>
 <div class="carousel">
   <div class="carousel-container">
     <img src="./media/delft.png" alt="Imagen 4">
@@ -260,7 +276,6 @@ ul.task-list li input[type="checkbox"] {
 </script>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
