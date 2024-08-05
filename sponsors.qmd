@@ -33,10 +33,25 @@ include-in-header:
           text-decoration: none;
           max-height: 400px;
         }
+        .golden {
+          font-weight: bold;
+          background: linear-gradient(90deg, #f5c242, #e0a106, #f5c242);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        }
+        .silver {
+          font-weight: bold;
+          font-size: 2em;
+          background: linear-gradient(90deg, #7a7a7a, #b0b0b0, #8a8a8a, #7a7a7a);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
       </style>
 ---
 
-### Gold tier sponsors
+<h1 class="golden">Gold tier sponsors</h1>
 
 ```{=html}
 <div class="carousel">
@@ -83,7 +98,7 @@ include-in-header:
 <br>
 ---
 
-### Silver tier sponsors
+<h1 class="silver">Silver tier sponsors</h1>
 
 ```{=html}
 <div class="carousel">
