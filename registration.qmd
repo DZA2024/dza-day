@@ -2,6 +2,10 @@
 title: "Registration"
 ---
 
-To secure your place, please click the button below. This will take you to our registration form where you can provide confirm your attendance. We look forward to seeing you there!
+Registration can be completed by clicking on the register button.  
+
+::: {.callout-important}
+Registration will only be fully completed once payment has been received on the following transfer account: 
+:::
 
 [Registration](https://icts.kuleuven.be/apps/onebutton/registrations/602124){.btn .btn-dark .btn role="button" data-toggle="tooltip" title="Click to register"}
