@@ -35,6 +35,7 @@ include-in-header:
         }
         .golden {
           font-weight: bold;
+          font-size: 2em;
           background: linear-gradient(90deg, #f5c242, #e0a106, #f5c242);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
@@ -48,11 +49,18 @@ include-in-header:
           -webkit-text-fill-color: transparent;
           text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         }
+        hr {
+        border: none;
+          height: 2px;
+          box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+          background-color: #ccc;
+          margin: 20px 0;
+        }
       </style>
 ---
 
 <h1 class="golden">Gold tier sponsors</h1>
-
+<hr>
 ```{=html}
 <div class="carousel">
   <div class="carousel-container">
@@ -96,10 +104,10 @@ include-in-header:
 </script>
 ```
 <br>
----
+
 
 <h1 class="silver">Silver tier sponsors</h1>
-
+<hr>
 ```{=html}
 <div class="carousel">
   <div class="carousel-container">
