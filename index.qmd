@@ -22,7 +22,7 @@ Elena Brozzi, Sven Robijns and Prof. Michiel Dusselier – secretary of the DZA
 <span style="font-size: 22px; font-weight: bold">Registration is open until 10<sup>th</sup> of October 2024</span> 
 
 <br>
-![](media/leuven.jpg)
+![](media/leuven.png)
 
 ```{=html}
 <script type="text/javascript">

@@ -2,10 +2,6 @@
 title: "Registration"
 ---
 
-Registration can be completed by clicking on the register button.  
-
-::: {.callout-important}
-Registration will only be fully completed once payment has been received on the following transfer account: 
-:::
+Registration can be completed by clicking on the register button. 
 
 [Registration](https://icts.kuleuven.be/apps/onebutton/registrations/602124){.btn .btn-dark .btn role="button" data-toggle="tooltip" title="Click to register"}
