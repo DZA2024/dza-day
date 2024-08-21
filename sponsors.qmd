@@ -64,14 +64,6 @@ include-in-header:
 ```{=html}
 <div class="carousel">
   <div class="carousel-container">
-    <img src="./media/exxon.svg" alt="Imagen 1">
-    <div id="para" class="carousel-caption">
-      <a href="https://www.exxonmobil.be" target="_blank">
-            ExxonMobil
-        </a>
-    </div>
-  </div>
-  <div class="carousel-container">
     <img src="./media/shell.png" alt="Imagen 2">
     <div class="carousel-caption">
       <a href="https://www.shell.com/business-customers/catalysts-technologies.html" target="_blank">
