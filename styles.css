@@ -12,3 +12,14 @@ thead {
     border-radius: 10px;
     border: 1px solid lightgray;
 }
+
+.plenary {
+    float: left;
+    margin-right: 30px;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
