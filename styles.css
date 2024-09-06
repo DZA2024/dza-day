@@ -19,6 +19,7 @@ thead {
 }
 
 .clearfix::after {
+    overflow: auto;
     content: "";
     display: block;
     clear: both;
