@@ -21,3 +21,21 @@ title: "Program"
 |17:00-17:15 |Closing remarks |
 : {.hover}
 </center>
+
+<br>
+
+## Plenary speaker - Prof. Xiaodong Zou (Stockholm University)
+
+:::: .columns
+
+::: {.plenary}
+![Professor Xiaodong Zou](media/Xiaodong Zou.jpg){height=300px}
+:::
+
+::: {.clearfix .justify}
+**Xiaodong Zou** is a full professor in structural chemistry at the Department of Materials and Environmental Chemistry at Stockholm University. She is a leading expert in crystallography and porous materials and one of the pioneers in electron crystallography. For more than 30 years, her group has been developing image- and diffraction-based methods and software for crystal structure determination. 
+
+She is known as a leading expert in the structural analysis of novel porous materials, including zeolites, metal-organic frameworks, and covalent organic frameworks. She has received several prestigious awards and is a distinguished professor at the Swedish Research Council and a Wallenberg Scholar. 
+
+She is also a Fellow of the Royal Chemical Society, an elected member of the Royal Swedish Academy of Sciences, and an elected member of the Royal Swedish Academy of Engineering Sciences. She is the main editor of the Electron crystallography section of IUCrJ, the flagship journal of the International Union of Crystallography. An abstract of her lecture can be found <a href="media/DTA_day 2024.docx" download="DTA_day 2024.docx">here</a>.
+:::
