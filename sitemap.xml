@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://DZA2024.github.io/dza-day/abstract.html</loc>
-    <lastmod>2024-08-21T15:25:39.001Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DZA2024.github.io/dza-day/program.html</loc>
-    <lastmod>2024-08-21T15:25:39.009Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DZA2024.github.io/dza-day/sponsors.html</loc>
-    <lastmod>2024-08-21T15:25:39.009Z</lastmod>
-  </url>
-  <url>
     <loc>https://DZA2024.github.io/dza-day/registration.html</loc>
-    <lastmod>2024-08-21T15:25:39.009Z</lastmod>
-  </url>
-  <url>
-    <loc>https://DZA2024.github.io/dza-day/location.html</loc>
-    <lastmod>2024-08-21T15:25:39.001Z</lastmod>
+    <lastmod>2024-09-06T00:03:57.129Z</lastmod>
   </url>
   <url>
     <loc>https://DZA2024.github.io/dza-day/index.html</loc>
-    <lastmod>2024-08-21T15:25:39.001Z</lastmod>
+    <lastmod>2024-09-06T00:03:57.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DZA2024.github.io/dza-day/location.html</loc>
+    <lastmod>2024-09-06T00:03:57.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DZA2024.github.io/dza-day/program.html</loc>
+    <lastmod>2024-09-06T00:03:57.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DZA2024.github.io/dza-day/sponsors.html</loc>
+    <lastmod>2024-09-06T00:03:57.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://DZA2024.github.io/dza-day/abstract.html</loc>
+    <lastmod>2024-09-06T00:03:57.121Z</lastmod>
   </url>
 </urlset>
