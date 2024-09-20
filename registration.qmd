@@ -4,4 +4,8 @@ title: "Registration"
 
 Registration can be completed by clicking on the register button. 
 
+::: {.callout-note}
+If you have any specific food allergies or dietary restrictions, please notify us via DZAday@kuleuven.be
+:::
+
 [Registration](https://icts.kuleuven.be/apps/onebutton/registrations/602124){.btn .btn-dark .btn role="button" data-toggle="tooltip" title="Click to register"}
