@@ -8,7 +8,7 @@ We invite you to join the one-day symposium, organized by the Dutch zeolite asso
 
 The conference is organized by the Center for sustainable catalysis and engineering (CSCE), formerly part of the Centrum for Surface Science and Catalysis (COK), a lab with a rich history in zeolite science for over 4 decades.  
 
-We invite you to participate, either by presenting a poster or a presentation, with any subject covering zeolites (or related materials), their synthesis and uses, e.g. as a catalyst or adsorbent. For this, submissions are open until the 30<sup>th</sup> of september. Priority will be given to PhD student and postdoctoral talks. We look forward to hearing from you. 
+We invite you to participate, either by presenting a poster or a presentation, with any subject covering zeolites (or related materials), their synthesis and uses, e.g. as a catalyst or adsorbent. For this, submissions are open until the <del>30<sup>th</sup> September</del> 10<sup>th</sup> October 2024. Priority will be given to PhD student and postdoctoral talks. We look forward to hearing from you. 
 :::
 
 <br>
@@ -19,7 +19,7 @@ Elena Brozzi, Sven Robijns and Prof. Michiel Dusselier – secretary of the DZA
 <br>
 
 <span style="font-size: 22px; font-weight: bold">Join us 4<sup>th</sup> of November 2024</span><br>
-<span style="font-size: 22px; font-weight: bold">Registration is open until 10<sup>th</sup> of October 2024</span> 
+<span style="font-size: 22px; font-weight: bold">Registration is open until 13<sup>th</sup> of October 2024</span> 
 
 <br>
 ![](media/leuven.png)
