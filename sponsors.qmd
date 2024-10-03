@@ -118,6 +118,17 @@ include-in-header:
       </a>
     </div>
   </div>
+  <div class="carousel-container">
+    <img src="./media/cgb.png" alt="Imagen 6">
+    <div class="carousel-caption">
+      <a href="https://www.cgb-cbb.be/" target="_blank">
+        CGB CBB 
+      </a>
+    </div>
+  </div>
+  <div class="carousel-container">
+    <img src="./media/multiple.png" alt="Imagen 7">
+  </div>
 </div>
 
 <!-- Script para inicializar Slick Carousel -->
