@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "location.html",
+    "href": "location.html",
+    "title": "Location",
+    "section": "",
+    "text": "The conference will take place in the Irish college (Iers College) in the heart of Leuven city.\n\n\nAddress\nJanseniusstraat 1  3000 Leuven  Belgium \n\n\n\n\n\n\n\n\nHow to get there\n\nBy plane:\n\nThere is a direct train connection from Brussels Airport (Zaventem) to the city of Leuven which departs twice an hour. The train station is located inside the building of Brussels Airport.\n\n\n\nBy Car:\n\nIf you come by car, we advise you to park your car on one of the public parking’s around Leuven. There are several within walking distance of the conference center:\n\n\nParking Bodart (13 min walk)\n\nParking Sint-Jacob (10 min walk)\nQ-Park Leuven Heilig Hart (9 min walk)\n\nIn most of Leuven you can also park by the side of the road if you pay for a parking ticket.\n\n\n\n\n\n\nNote\n\n\n\nLimited parking is available on location for people with restricted mobility, if you need a parking spot please notify us via DZAday@kuleuven.be adding your license plate.\n\n\n\n\nBy public transport:\n\nThe Leuven train station is located at walking distance of the conference center (22 min walk). There is also the option of taking the bus (Line 2: Heverlee Campus Arenberg) and getting of at the stop: Leuven Sint-Michielskerk, which is the third stop from the station. From here, it is a 5 min walk to the conference center."
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration can be completed by clicking on the register button.\n\n\n\n\n\n\nNote\n\n\n\nIf you have any specific food allergies or dietary restrictions, please notify us via DZAday@kuleuven.be\n\n\nRegistration"
+  },
+  {
     "objectID": "sponsors.html",
     "href": "sponsors.html",
     "title": "Sponsors",
@@ -11,21 +25,21 @@
     "href": "program.html",
     "title": "Program",
     "section": "",
-    "text": "Note\n\n\n\nPreliminary: a more detailed program will be announced later."
+    "text": "DZA DAY 2024 - 4TH NOVEMBER 2024 – LEUVEN"
   },
   {
-    "objectID": "program.html#plenary-speaker---prof.-xiaodong-zou-stockholm-university",
-    "href": "program.html#plenary-speaker---prof.-xiaodong-zou-stockholm-university",
+    "objectID": "program.html#final-program",
+    "href": "program.html#final-program",
     "title": "Program",
-    "section": "Plenary speaker - Prof. Xiaodong Zou (Stockholm University)",
-    "text": "Plenary speaker - Prof. Xiaodong Zou (Stockholm University)\n\n\n\n\n\nProfessor Xiaodong Zou\n\n\n\n\nXiaodong Zou is a full professor in structural chemistry at the Department of Materials and Environmental Chemistry at Stockholm University. She is a leading expert in crystallography and porous materials and one of the pioneers in electron crystallography. For more than 30 years, her group has been developing image- and diffraction-based methods and software for crystal structure determination.\nShe is known as a leading expert in the structural analysis of novel porous materials, including zeolites, metal-organic frameworks, and covalent organic frameworks. She has received several prestigious awards and is a distinguished professor at the Swedish Research Council and a Wallenberg Scholar.\nShe is also a Fellow of the Royal Chemical Society, an elected member of the Royal Swedish Academy of Sciences, and an elected member of the Royal Swedish Academy of Engineering Sciences. She is the main editor of the Electron crystallography section of IUCrJ, the flagship journal of the International Union of Crystallography. An abstract of her lecture can be found here."
+    "section": "",
+    "text": "DZA DAY 2024 - 4TH NOVEMBER 2024 – LEUVEN"
   },
   {
-    "objectID": "location.html",
-    "href": "location.html",
-    "title": "Location",
-    "section": "",
-    "text": "The conference will take place in the Irish college (Iers College) in the heart of Leuven city.\n\n\nAddress\nJanseniusstraat 1  3000 Leuven  Belgium \n\n\n\n\n\n\n\n\nHow to get there\n\nBy plane:\n\nThere is a direct train connection from Brussels Airport (Zaventem) to the city of Leuven which departs twice an hour. The train station is located inside the building of Brussels Airport.\n\n\n\nBy Car:\n\nIf you come by car, we advise you to park your car on one of the public parking’s around Leuven. There are several within walking distance of the conference center:\n\n\nParking Bodart (13 min walk)\n\nParking Sint-Jacob (10 min walk)\nQ-Park Leuven Heilig Hart (9 min walk)\n\nIn most of Leuven you can also park by the side of the road if you pay for a parking ticket.\n\n\n\n\n\n\nNote\n\n\n\nLimited parking is available on location for people with restricted mobility, if you need a parking spot please notify us via DZAday@kuleuven.be adding your license plate.\n\n\n\n\nBy public transport:\n\nThe Leuven train station is located at walking distance of the conference center (22 min walk). There is also the option of taking the bus (Line 2: Heverlee Campus Arenberg) and getting of at the stop: Leuven Sint-Michielskerk, which is the third stop from the station. From here, it is a 5 min walk to the conference center."
+    "objectID": "program.html#plenary-speaker",
+    "href": "program.html#plenary-speaker",
+    "title": "Program",
+    "section": "Plenary speaker",
+    "text": "Plenary speaker\n\nProf. Xiaodong Zou (Stockholm University)\n\n\n\n\n\n\nProfessor Xiaodong Zou\n\n\n\n\nXiaodong Zou is a full professor in structural chemistry at the Department of Materials and Environmental Chemistry at Stockholm University. She is a leading expert in crystallography and porous materials and one of the pioneers in electron crystallography. For more than 30 years, her group has been developing image- and diffraction-based methods and software for crystal structure determination.\nShe is known as a leading expert in the structural analysis of novel porous materials, including zeolites, metal-organic frameworks, and covalent organic frameworks. She has received several prestigious awards and is a distinguished professor at the Swedish Research Council and a Wallenberg Scholar.\nShe is also a Fellow of the Royal Chemical Society, an elected member of the Royal Swedish Academy of Sciences, and an elected member of the Royal Swedish Academy of Engineering Sciences. She is the main editor of the Electron crystallography section of IUCrJ, the flagship journal of the International Union of Crystallography. An abstract of her lecture can be found here."
   },
   {
     "objectID": "abstract.html",
@@ -40,12 +54,5 @@
     "title": "WELCOME to the DZA symposium",
     "section": "",
     "text": "We invite you to join the one-day symposium, organized by the Dutch zeolite association (DZA). The symposium will take place on the 4th of November 2024 in the Irish college in the beautiful city of Leuven, which is not only the birthplace of the world-renowned Stella Artois Brewery, but also the home of the oldest university (599 years) in the low countries.\nThe conference is organized by the Center for sustainable catalysis and engineering (CSCE), formerly part of the Centrum for Surface Science and Catalysis (COK), a lab with a rich history in zeolite science for over 4 decades.\nWe invite you to participate, either by presenting a poster or a presentation, with any subject covering zeolites (or related materials), their synthesis and uses, e.g. as a catalyst or adsorbent. For this, submissions are open until the 30th September 10th October 2024. Priority will be given to PhD student and postdoctoral talks. We look forward to hearing from you.\n\n Kind regards,\nThe organizing team.  Elena Brozzi, Sven Robijns and Prof. Michiel Dusselier – secretary of the DZA\n\nJoin us 4th of November 2024 Registration is open until 13th of October 2024"
-  },
-  {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration",
-    "section": "",
-    "text": "Registration can be completed by clicking on the register button.\n\n\n\n\n\n\nNote\n\n\n\nIf you have any specific food allergies or dietary restrictions, please notify us via DZAday@kuleuven.be\n\n\nRegistration"
   }
 ]

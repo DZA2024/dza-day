@@ -66,12 +66,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet">
+<script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -126,7 +128,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#final-program" id="toc-final-program" class="nav-link active" data-scroll-target="#final-program">Final program</a></li>
+  <li><a href="#plenary-speaker" id="toc-plenary-speaker" class="nav-link" data-scroll-target="#plenary-speaker">Plenary speaker</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -149,74 +160,66 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<section id="final-program" class="level2">
+<h2 class="anchored" data-anchor-id="final-program">Final program</h2>
+<p><strong>DZA DAY 2024 - 4<sup>TH</sup> NOVEMBER 2024 – LEUVEN</strong></p>
+<div id="wrapper"></div>
+
+<script>
+  new gridjs.Grid({
+    columns: [
+      { 
+        name: "Time", 
+        width: '150px' 
+      }, 
+      "Event"
+    ],
+    data: [
+      ["8:50 - 9:30", "Registration"],
+      ["9:30 - 9:40", "Opening speech by Prof. Michiel Dusselier"],
+      ["9:40 - 10:40", gridjs.html("Oral presentations: <strong>Methanol conversion and synthesis</strong>")],
+      ["", gridjs.html("<u>9:40 - 10:00 - Pieter Cnudde</u>: Modeling light olefin diffusion pathways in H-CHA during MTO conversion (UGent, BE)")],
+      ["", gridjs.html("<u>10:00 - 10:20 - Luca Maggiulli</u>: Deuterium isotope effect in the methanol-to-olefins process: evidence of multi-origin and topology-dependent products selectivity (ETH, Switzerland)")],
+      ["", gridjs.html("<u>10:20 - 10:40 - Shangkun Li</u>: Plasma-catalytic one-step anaerobic oxidation of CH4 to CH3OH (UAntwerp, BE)")],
+      ["10:40 - 11:00", "Coffee break"],
+      ["11:00 - 11:50", gridjs.html("Plenary session: Prof. Xiaodong Zou – <strong>High-throughput electron diffraction techniques accelerate the development of zeolite materials (Stockholm University)</strong>")],
+      ["11:50 - 12:50", gridjs.html("Oral presentations: <strong>Synthesis and MOF-photocatalysis</strong>")],
+      ["", gridjs.html("<u>11:50 - 12:10 – Dries Vandenabeele</u>: How water impacts zeolite crystallization in Hydrated Silicate Ionic Liquids (KU Leuven, BE)")],
+      ["", gridjs.html("<u>12:10 - 12:30 – Wafaa A. Mohamed</u>: Engineering Porosity and Functionality in a Robust Twofold Interpenetrated Bismuth-Based MOF (UGent, BE)")],
+      ["", gridjs.html("<u>12:30 - 12:50 – Pankaj Verma</u>: Effect of functionalization on MOF derived heterostructure for green hydrogen generation (UvA, NL)")],
+      ["12:50 - 14:00", "Lunch break"],
+      ["14:00 - 15:20", gridjs.html("Oral presentations: <strong>New feedstock for the circular economy</strong>")],
+      ["", gridjs.html("<u>14:00 - 14:20 – Robin Lemmens</u>: Upcycling of polyethylene into closed-loop recyclable polymers through titanosilicate catalyzed C-H bond oxidation and in-chain heteroatom insertion (KU Leuven, BE)")],
+      ["", gridjs.html("<u>14:20 - 14:40 - Yu Gao</u>: Stable CO2 hydrogenation to methanol by Cu interacting with isolated Zn cations in zincosilicate CIT-6 (TU/e, NL)")],
+      ["", gridjs.html("<u>14:40 - 15:00 – Sebastian Rejman</u>: External acidity as performance descriptor in polyolefin cracking using zeolite-based materials (Utrecht University, NL)")],
+      ["", gridjs.html("<u>15:00 - 15:20 – Phebe Lemaire</u>: The effect of mesopores in platelike H-ZSM-5 zeolites in the n-butanol dehydration reaction (UGent, BE)")],
+      ["15:20 - 15:40", "Coffee break"],
+      ["15:40 - 16:20", gridjs.html("Oral presentations: <strong>Adsorption</strong>")],
+      ["", gridjs.html("<u>15:40 - 16:00 - Jennifer Pham Van</u>: Experimental adsorptive cage effects and diffusive window effects for n-alkanes on AEI zeolite (VUB, BE)")],
+      ["", gridjs.html("<u>16:00 - 16:20 - Dipanshu Kumar</u>: Hybrid QM:QM methods for adsorption of ethanol in H-ZSM-5 (Radboud Nijmegen, NL)")],
+      ["16:20 - 17:30", "Poster session"]
+    ],
+    style: {
+      table: {
+        'border': '1px solid #ccc'
+      },
+      th: {
+        'background-color': '#f4f4f4',
+        'text-align': 'center'
+      },
+      td: {
+        'padding': '15px',
+        'text-align': 'justify'
+      }
+    }
+  }).render(document.getElementById("wrapper"));
+</script>
+</section>
+<section id="plenary-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="plenary-speaker">Plenary speaker</h2>
+<div class="speaker">
+<p><strong>Prof.&nbsp;Xiaodong Zou (Stockholm University)</strong></p>
 </div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Preliminary</strong>: a more detailed program will be announced later.</p>
-</div>
-</div>
-<center>
-<table class="table-hover caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: center;">Time</th>
-<th style="text-align: left;">Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">8:00-9:00&nbsp;</td>
-<td style="text-align: left;">Registration and coffee&nbsp;</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">9:00-9:10&nbsp;</td>
-<td style="text-align: left;">Opening the DZA day (Michiel Dusselier)&nbsp;</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">9:10-10:00&nbsp;</td>
-<td style="text-align: left;">Plenary lecture (Prof.&nbsp;Xiaodong Zou)&nbsp;</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">10:00-11:00&nbsp;</td>
-<td style="text-align: left;">Lectures (3x20 minutes)&nbsp;</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">11:00-11:30&nbsp;</td>
-<td style="text-align: left;"><strong>Coffee break</strong></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">11:30-12:50&nbsp;</td>
-<td style="text-align: left;">Lectures (4x20 minutes)&nbsp;</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">13:00-14:00&nbsp;</td>
-<td style="text-align: left;"><strong>Lunch</strong>&nbsp;</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">14:00-15:20&nbsp;</td>
-<td style="text-align: left;">Lectures (4x20 minutes)&nbsp;</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;">15:30-17:00&nbsp;</td>
-<td style="text-align: left;">Poster session&nbsp;</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;">17:00-17:15&nbsp;</td>
-<td style="text-align: left;">Closing remarks&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</center>
-<p><br></p>
-<section id="plenary-speaker---prof.-xiaodong-zou-stockholm-university" class="level2">
-<h2 class="anchored" data-anchor-id="plenary-speaker---prof.-xiaodong-zou-stockholm-university">Plenary speaker - Prof.&nbsp;Xiaodong Zou (Stockholm University)</h2>
 <div class=".columns">
 <div class="plenary">
 <div class="quarto-figure quarto-figure-center">
